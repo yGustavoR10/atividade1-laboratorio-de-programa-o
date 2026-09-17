@@ -1,0 +1,35 @@
+SISTEMA BANCÁRIO - ATIVIDADE DE LABORATÓRIO DE PROGRAMAÇÃO
+
+Projeto Java preparado para abrir no Apache NetBeans.
+
+Pacote: exBanco
+Classe principal: Application
+Classes:
+- Application.java
+- Banco.java
+- Conta.java
+
+FUNCIONALIDADES:
+1 - Creditar
+2 - Debitar
+3 - Consultar Saldo
+4 - Encerrar Conta
+5 - Sair
+
+A conta inicial é criada com:
+Número: 1
+Agência: 100
+Nome da agência: Sede
+Tipo: 1
+Saldo: R$ 0,00
+
+OBSERVAÇÃO:
+O enunciado menciona a criação da classe Banco, mas depois solicita a instanciação
+de um objeto Conta. Para atender aos dois pontos, a classe Conta herda de Banco.
+
+COMO ABRIR NO NETBEANS:
+1. Extraia o arquivo ZIP.
+2. Abra o Apache NetBeans.
+3. Vá em File > Open Project.
+4. Escolha a pasta SistemaBancarioNetBeans.
+5. Execute o projeto.
